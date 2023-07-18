@@ -17,6 +17,8 @@ public class _17_Single_Dimensional_Array {
 		System.out.println(a[0]); // Accessing values of array
 		System.out.println(a[1]);
 		System.out.println(a[2]);
+		
+		
 				
 
 	}

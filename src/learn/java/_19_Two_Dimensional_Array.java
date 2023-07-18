@@ -12,7 +12,7 @@ public class _19_Two_Dimensional_Array {
 		
 		System.out.println("*-*-*-*-*-*-*-*-*-*-*-*");
 
-		//for loop two dimensianal array
+		//for loop two dimensional array
 		for (int i = 0; i<a.length; i++) {
 			
 			for (int j = 0; j<a[0].length; j++) {
@@ -25,10 +25,7 @@ public class _19_Two_Dimensional_Array {
 			
 		}
 		
-		
-		
-		
-		
+
 	}
 
 }
