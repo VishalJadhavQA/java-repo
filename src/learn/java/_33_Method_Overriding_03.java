@@ -17,7 +17,7 @@ public class _33_Method_Overriding_03 {
 		
 		
 		M1.Nokia(); //calling parent class
-		M2.Nokia(); //calling parent class by extending to parent (as it don't have parameter)
+		M2.Nokia(); //calling parent class by extending to parent (as it don't have parameter) with child class object reference.
 		
 		M2.Nokia(1); //calling child class (as it have parameter)
 		
